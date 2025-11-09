@@ -1,3 +1,4 @@
+```
                 .\_,.  
            "..-..pf.  
           \-L   ..\#'  
@@ -19,6 +20,8 @@
                             .\~......'\#'  
   Ray Brunner               '..,,.,\_\]\`     Sienar Fleet Systems' TIE/In  
                             .L..\`..\`\`.     Space Superiority Starfighter (2)
+
+```
 
 # **🚀 The HoloNet Protocol: A Star Wars AI Hackathon**
 
