@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from config.lifespan import combine_lifespans
-from star_wars_holonet_server import mcp_server
+from main import mcp_server
 
 # --- Initialize FastAPI and FastMCP ---
 mcp_stream_app = mcp_server.http_app(
